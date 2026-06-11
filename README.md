@@ -1,20 +1,26 @@
-# Noma Homes V2
+# Noma Homes V3 Full Upload
 
-Version 2 του mid-term rental website.
+Πλήρης demo πλατφόρμα mid-term rentals.
 
-## Νέα στοιχεία
-- Χάρτης/πινακάκι τύπου Airbnb στα αποτελέσματα
-- Χάρτης τοποθεσίας στη σελίδα κάθε σπιτιού
-- Περισσότερες λεπτομέρειες ανά σπίτι
-- Κανόνες σπιτιού
-- Χρεώσεις/λογαριασμοί
-- Check-in/out
-- Γειτονιά
-- Metro/walk score
-- Booking box
-- Host/owner info
-- Καλύτερο design και sections
+## Περιλαμβάνει
+- Homepage τύπου premium rental brand
+- Listings page με Airbnb-style map panel
+- Listing detail pages
+- Booking request demo
+- Login / Register demo
+- Guest dashboard
+- Host dashboard
+- Admin dashboard
+- Favorites
+- Messages
+- Help/FAQ
+- Pricing/fees explanation
+- Responsive layout
 
 ## Ανέβασμα
-Αντικατέστησε τα αρχεία στο GitHub repository και κάνε commit.
-Το Vercel θα κάνει αυτόματα deploy.
+1. Κάνε unzip.
+2. Άνοιξε τον φάκελο.
+3. Στο GitHub repo `noma-homes` πάτα Add file → Upload files.
+4. Κάνε Ctrl + A μέσα στον φάκελο V3 και σύρε τα όλα στο GitHub.
+5. Commit changes.
+6. Το Vercel θα κάνει deploy αυτόματα.
